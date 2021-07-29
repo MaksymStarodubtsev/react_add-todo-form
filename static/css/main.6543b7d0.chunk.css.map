@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,YAGE,qBAAuB,CACvB,wBACF","file":"main.6543b7d0.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\ntable,\nth,\ntd {\n  border: 1px solid black;\n  border-collapse: collapse;\n}\n"]}
